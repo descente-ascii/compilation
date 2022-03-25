@@ -316,7 +316,7 @@ public class PtGen {
 					po.produire(tabSymb[indiceIdent].info);
 				}
 
-				tCour = tabSymb[indiceIdent].type;
+				tCour = tabSymb[indiceIdent].type; //sans ca le PtGen 20 bloquait la compilation
 			}
 			break;
 			
