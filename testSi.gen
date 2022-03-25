@@ -1,0 +1,12 @@
+FICHIER testSi.gen : 
+
+   1  empiler         0
+   3  empiler         0
+   5  empiler         0
+   7  empiler         0
+   9  empiler         0
+  11  eg        
+  12  inf       
+  13  sup       
+  14  empiler         0
+  16  add       

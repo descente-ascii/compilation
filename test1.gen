@@ -1,0 +1,27 @@
+FICHIER test1.gen : 
+
+   1  reserver        2
+   3  empiler         2
+   5  empiler         3
+   7  empiler        12
+   9  mul       
+  10  add       
+  11  affecterg       0
+  13  empiler         4
+  15  empiler         2
+  17  add       
+  18  affecterg       1
+  20  lirent    
+  21  affecterg       0
+  23  lirent    
+  24  affecterg       1
+  26  empiler         5
+  28  empiler         2
+  30  add       
+  31  contenug        0
+  33  sup       
+  34  ecrbool   
+  35  empiler        10
+  37  empiler        10
+  39  add       
+  40  ecrent    
